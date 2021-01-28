@@ -5,24 +5,24 @@
     "home_page_url": "https://zeroday1031.tk",
     "items": [
         {
-            "id": "https://zeroday1031.tk/2021/01/28/add-typed-js/",
-            "url": "https://zeroday1031.tk/2021/01/28/add-typed-js/",
+            "id": "https://zeroday1031.tk/posts/2021/01/28/add-typed-js/",
+            "url": "https://zeroday1031.tk/posts/2021/01/28/add-typed-js/",
             "title": "add-typed.js",
             "date_published": "2021-01-28T11:19:12.000Z",
             "content_html": "<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL21hdHRib2xkdC90eXBlZC5qcy8=\">typed.js</span> 를 추가했다.</p>\n<figure class=\"highlight html\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br><span class=\"line\">4</span><br><span class=\"line\">5</span><br><span class=\"line\">6</span><br><span class=\"line\">7</span><br><span class=\"line\">8</span><br><span class=\"line\">9</span><br><span class=\"line\">10</span><br><span class=\"line\">11</span><br><span class=\"line\">12</span><br><span class=\"line\">13</span><br><span class=\"line\">14</span><br><span class=\"line\">15</span><br><span class=\"line\">16</span><br><span class=\"line\">17</span><br><span class=\"line\">18</span><br></pre></td><td class=\"code\"><pre><span class=\"line\"><span class=\"tag\">&lt;<span class=\"name\">script</span> <span class=\"attr\">src</span>=<span class=\"string\">&quot;https://cdn.jsdelivr.net/npm/typed.js@2.0.11&quot;</span>&gt;</span><span class=\"tag\">&lt;/<span class=\"name\">script</span>&gt;</span></span><br><span class=\"line\"></span><br><span class=\"line\"><span class=\"tag\">&lt;<span class=\"name\">script</span>&gt;</span></span><br><span class=\"line\"><span class=\"javascript\">  <span class=\"keyword\">let</span> options = &#123;</span></span><br><span class=\"line\">    strings: [</span><br><span class=\"line\"><span class=\"javascript\">        <span class=\"string\">&#x27;ㅁㄴㅇㄹ&#x27;</span>,</span></span><br><span class=\"line\"><span class=\"javascript\">        <span class=\"string\">&#x27;Lorem Ipsum&#x27;</span></span></span><br><span class=\"line\">    ],</span><br><span class=\"line\">    typeSpeed: 70,</span><br><span class=\"line\"><span class=\"javascript\">    loop: <span class=\"literal\">true</span>,</span></span><br><span class=\"line\"><span class=\"javascript\">    loopCount: <span class=\"literal\">Infinity</span>,</span></span><br><span class=\"line\">    backSpeed: 50,</span><br><span class=\"line\"><span class=\"javascript\">    cursorChar: <span class=\"string\">&#x27;&#x27;</span></span></span><br><span class=\"line\">  &#125;;</span><br><span class=\"line\"><span class=\"javascript\">  <span class=\"built_in\">window</span>.onload = <span class=\"function\"><span class=\"keyword\">function</span>(<span class=\"params\"></span>) </span>&#123;</span></span><br><span class=\"line\"><span class=\"javascript\">     typed = <span class=\"keyword\">new</span> Typed(<span class=\"string\">&#x27;.artboard&#x27;</span>, options);</span></span><br><span class=\"line\">  &#125;</span><br><span class=\"line\"><span class=\"tag\">&lt;/<span class=\"name\">script</span>&gt;</span></span><br></pre></td></tr></table></figure>\n",
             "tags": []
         },
         {
-            "id": "https://zeroday1031.tk/2021/01/28/add-Live-Re/",
-            "url": "https://zeroday1031.tk/2021/01/28/add-Live-Re/",
+            "id": "https://zeroday1031.tk/posts/2021/01/28/add-Live-Re/",
+            "url": "https://zeroday1031.tk/posts/2021/01/28/add-Live-Re/",
             "title": "add-Live:Re",
             "date_published": "2021-01-28T10:37:20.000Z",
             "content_html": "<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly9saXZlcmUuY29tLw==\">라이브리</span> 댓글을 넣어봤다 <br>\n<img data-src=\"/pict/LiveRe.png\" alt=\"LiveRe\"></p>\n",
             "tags": []
         },
         {
-            "id": "https://zeroday1031.tk/2021/01/27/first/",
-            "url": "https://zeroday1031.tk/2021/01/27/first/",
+            "id": "https://zeroday1031.tk/posts/2021/01/27/first/",
+            "url": "https://zeroday1031.tk/posts/2021/01/27/first/",
             "title": "first",
             "date_published": "2021-01-27T08:05:53.000Z",
             "content_html": "<p>hexo 블로그 만듬</p>\n",
