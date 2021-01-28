@@ -2,11 +2,19 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Zeroday",
     "description": "",
-    "home_page_url": "https://blog.zeroday1031.tk",
+    "home_page_url": "https://zeroday1031.tk",
     "items": [
         {
-            "id": "https://blog.zeroday1031.tk/2021/01/27/first/",
-            "url": "https://blog.zeroday1031.tk/2021/01/27/first/",
+            "id": "https://zeroday1031.tk/2021/01/28/add-Live-Re/",
+            "url": "https://zeroday1031.tk/2021/01/28/add-Live-Re/",
+            "title": "add-Live:Re",
+            "date_published": "2021-01-28T10:37:20.000Z",
+            "content_html": "<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly9saXZlcmUuY29tLw==\">라이브리</span> 댓글을 넣어봤다 <br>\n<img data-src=\"/pict/LiveRe.png\" alt=\"LiveRe\"></p>\n",
+            "tags": []
+        },
+        {
+            "id": "https://zeroday1031.tk/2021/01/27/first/",
+            "url": "https://zeroday1031.tk/2021/01/27/first/",
             "title": "first",
             "date_published": "2021-01-27T08:05:53.000Z",
             "content_html": "<p>hexo 블로그 만듬</p>\n",
